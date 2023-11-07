@@ -1,0 +1,4 @@
+TIPOS DE REDES:
+_POR EXTENCION:lan, man, wan, pam
+_TIPO FUNCIONAL:cliente/servidor, p2p
+_POR TOPOLOGIA: anillo, malla, bus, estrella, arbol
